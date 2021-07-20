@@ -1,3 +1,5 @@
+"use strict";
+
 function calc(main)
 {
     const km = 1;
